@@ -19,6 +19,12 @@ python run.py [video link]
 python run.py https://www.pinterest.com/pin/5849X5X7X352X50XXX
 ```
 
+Contents of requirements.txt
+```python
+requests==2.24.0
+beautifulsoup4==4.9.3
+```
+
 ## Not for commercial use
 
 ## License
