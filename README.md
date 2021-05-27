@@ -11,12 +11,12 @@ pip install pinterest_video_downloader
 ## Usage
 
 ```python
-python run.py [video link]
+python pin.py [video link]
 ```
 ### Example:
 
 ```python
-python run.py https://www.pinterest.com/pin/5849X5X7X352X50XXX
+python pin.py https://www.pinterest.com/pin/5849X5X7X352X50XXX
 ```
 
 Contents of requirements.txt
