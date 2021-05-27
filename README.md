@@ -25,7 +25,5 @@ requests==2.24.0
 beautifulsoup4==4.9.3
 ```
 
-## Not for commercial use
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
